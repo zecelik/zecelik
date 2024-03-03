@@ -19,6 +19,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=zecelik&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zecelik&icon=2&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
