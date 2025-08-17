@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zehra Çelik</h1>
 <h3 align="center">Software Developer Student</h3>
 
-- 🌱 I’m currently learning **42 Ecole**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
